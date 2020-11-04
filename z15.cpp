@@ -5,6 +5,7 @@ using namespace std;
 
 int main()
 {
+	// 5. Найти минальное кол-во конфет, чтобы победить.
 	int n;
 	cin >> n;
 	int *a = new int[n];
